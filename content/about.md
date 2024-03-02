@@ -2,7 +2,7 @@
 author = "Thomas Evensen"
 title = "Om"
 date = "2021-03-11"
-description = "Who am I?"
+# description = "Who am I?"
 tags = ["about"]
 # categories = ["todo"]
 lastmod = "2021-04-12"

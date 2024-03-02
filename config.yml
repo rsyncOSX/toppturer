@@ -115,16 +115,16 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: About
-      name: about
+    - identifier: Om
+      name: Om
       url: /about/
       weight: 5
-    - identifier: categories
-      name: categories
+    - identifier: Kategorier
+      name: Kategorier
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
+    - identifier: Tagger
+      name: Tagger
       url: /tags/
       weight: 20
     # - identifier: example
