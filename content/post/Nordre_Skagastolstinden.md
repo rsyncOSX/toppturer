@@ -4,7 +4,7 @@ date: 2018-07-10
 tags : ["Skagastølstinden"]
 categories : ["Jotunheimen"]
 ---
-Tirsdag 10 juli 2018 ble det tur til Nordre Skagastølstinden (2168 moh). For Grethe ble dette første tur innover i Skagastølsdalen og det er et mektig syn som møter en innover i dalen. Det var et strålende vær og høy solfaktor var påkrevd. Jeg har vært noen ganger innover her (tur på [Storen](/Storen)) og det er like imponerende hver gang.
+Tirsdag 10 juli 2018 ble det tur til Nordre Skagastølstinden (2168 moh). For Grethe ble dette første tur innover i Skagastølsdalen og det er et mektig syn som møter en innover i dalen. Det var et strålende vær og høy solfaktor var påkrevd. Jeg har vært noen ganger innover her (tur på [Storen](/post/storen/)) og det er like imponerende hver gang.
 
 Med denne turen har jeg vært to ganger på toppen. Første gang er endel år siden og da måtte jeg snu rett under toppen pga regn og tåke. Toppen er relativt lett å nå, ingen utsatte partier. Motbakken er bratt med mye stein. Det er mange som går på Storen via Skagastølsryggen og da er første topp Nordre Skagastølstinden.
 
