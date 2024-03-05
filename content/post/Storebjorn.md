@@ -8,11 +8,11 @@ Jotunheimen er, etter min vurdering, et fantastisk fjellområde som byr på (mek
 
 Men det er veldig mange fine alternativer utenom de bratteste fjellsidene. Jeg har vært på seks topper i Jotunheiemen med randonee ski som jeg synes var utrolig flotte. Av disse fem er det Storebjørn, Loftet og Veslebreatinden som har de fineste nedkjøringene. De seks er:
 
--   Storebjørn (2222 moh)
--   [Loftet](/post/loftet/) (2170 moh)
+-  Storebjørn (2222 moh)
+-  [Loftet](/post/loftet/) (2170 moh)
 -  [Fanaråken](/post/fanaraaken/) (2068 moh)
 -  [Stor- og Veslebreatinden](/post/breatinden/)(2092 moh, 2018 moh)
--  [Sokse](/post/sokse/)(2089 moh) - uten ski på selve toppen
+-  [Sokse](/post/sokse/) (2089 moh) - uten ski på selve toppen
 
 Tilgang til start for disse fjelltoppene er veldig bra etter at Vegvesenet har åpnet Fv 55 over Sognefjellet for våren.To ganger har jeg vært på toppen av Storebjørn. Andre tur gang var i pinsen 2016. Da gikk turen over Smørstabbreen og jeg gikk opp mellom Veslebjørn og Storebjørn.
 

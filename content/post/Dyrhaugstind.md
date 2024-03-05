@@ -4,7 +4,7 @@ date: 2020-05-31
 tags : ["Dyrhaugstind"]
 categories : ["Jotunheimen"]
 ---
-1.pinsedag 2020 ble det randoneetur til Dyrhaugstinden. For noen år siden jeg gikk jeg hele [Dyrhaugsryggen](/2014/06/dyrhaugsryggen/). Denne turen var tredje gang jeg har vært her oppe, men første gang med ski på beina. Og med ski på beina blir en ellers ganske kjedelig og langtekkelig retur veldig mye mer morsom, mye raskere og ikke spesielt slitsom heller.
+1.pinsedag 2020 ble det randoneetur til Dyrhaugstinden. For noen år siden jeg gikk jeg hele [Dyrhaugsryggen](/post/dyrhaugsryggen/). Denne turen var tredje gang jeg har vært her oppe, men første gang med ski på beina. Og med ski på beina blir en ellers ganske kjedelig og langtekkelig retur veldig mye mer morsom, mye raskere og ikke spesielt slitsom heller.
 
 Tur retur Turtagrø på ca fem timer med ca 1200 høydemeter. Vi brukte tre timer til topps og det ble selvfølgelig en lang og god rast på toppen når været var slik. Høy solfaktor var helt nødvendig, hvis ikke ville vi blitt kraftig solbrent. Og det er helt unødvendig.
 
