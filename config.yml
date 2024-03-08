@@ -58,16 +58,16 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: RsyncUI
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: True # needs to be explicitly set
+    title: Toppturer
+    subtitle: "Toppurer i Jotunheimen"
+    imageUrl: "/images/Toppturminner/hurrungane-front.jpeg"
+    imageWidth: 1296
+    imageHeight: 600
+    imageTitle: Hurrungane
     buttons:
       - name: Posts
-        url: posts
+        url: post
       - name: Tags
         url: tags
 

@@ -7,7 +7,7 @@ categories : ["Jotunheimen"]
 ---
 Under er liste over de toppturer i Jotunheimen som jeg har blogget om. På de fleste turer er det bilde av GPS spor og høydekurve for turen.
 
-{{< figure src="/images/Toppturminner/hurrungane.jpeg" caption="Hurrungane" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/Toppturminner/storen.jpg" caption="Store Skagastølstinden" position="center" style="border-radius: 8px;" >}}
 
 ### Store Dyrhaugstindene, Dyrhaugsryggen (2147 moh) over Bandet
 
