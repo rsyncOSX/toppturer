@@ -119,10 +119,13 @@ menu:
       name: Om
       url: /about/
       weight: 5
+    - name: Søk
+      url: search/
+      weight: 10
     - identifier: Kategorier
       name: Kategorier
       url: /categories/
-      weight: 10
+      weight: 15
     - identifier: Tagger
       name: Tagger
       url: /tags/
@@ -141,4 +144,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
- 
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
