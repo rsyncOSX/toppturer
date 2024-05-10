@@ -1,6 +1,6 @@
 baseURL: "https://toppturer.netlify.app/"
 title: Toppturer
-paginate: 10
+paginate: 20
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: RsyncUI
+  title: Toppturer
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -58,7 +58,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: True # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Toppturer
     subtitle: "Toppurer i Jotunheimen"
     imageUrl: "/images/Toppturminner/hurrungane-front.jpeg"
