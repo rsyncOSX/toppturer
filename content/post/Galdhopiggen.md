@@ -1,6 +1,6 @@
 ---
 title: "Galdhøpiggen, Glittertind og Besseggen"
-date: 2014-06-01
+date: 2014-07-01
 tags : ["Galdhøpiggen","Glittertind","Besseggen"]
 categories : ["Jotunheimen"]
 ---
@@ -72,7 +72,6 @@ Jeg gikk senere på sommeren 2014, en tur  på Urdadalstinden og Urdadalstraver
 ### Besseggen
 
 Besseggen ble spasert en søndag i september 2015. Vi så på værmeldingen og da var det bare å pakke bilen og kjøre avgårde. Vi hadde tenkt å overnatte i nærheten av Gjendesheim, men det var faktisk fullt på de fleste overnattingssteder i fjellet. Da ble det en natt i Fagernes og vi startet turen tidlig søndags morgen, ca en times kjøretur fra Gjendesheim. Fra Gjendesheim går båten til Memurubu og Gjendebu. Vi var heldig og var de nest siste ombord i båten som gikk rett etter vi hadde parkert bilen.
-
 
 {{< figure src="/images/Logger/Beseggen.jpg" caption="" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/Logger/Beseggen_eval.jpg" caption="" position="center" style="border-radius: 8px;" >}}
