@@ -88,7 +88,7 @@ Når vi var på Hjørnet hørte vi folk på Galleriet. Og da begynte også timen
 
 **Galleriet og Heftys renne**
 
-Galleriet er en ganske luftig plass. Men hyllene er brede og det er godt med tak i fjellet. Det mest utfordrende her er nok synet av Slingsbybreen noen hundre meter under oss. Det er flere ruter opp og vi valgte den såkalte Heftys renne. Med vi mener jeg Jakob (DNT) , Einar og meg. Magnus (DNT), Peer og Pål valgte ruten til høyre ved siden av Heftys renne. For å komme inn på denne må man utpå fjellet i starten. Og det skal litt guts til når det er 400-500 m fritt fall rett under. Det er også en rute til venstre for Heftys renne. Jakob ville at vi skulle ta den pga køen i renna. Og da må en også utpå fjellet, samtidig som det var vått og glatt fjell i starten. Det synes verken Einar var en god ide, så da ble det renna.
+Galleriet er en ganske luftig plass. Men hyllene er brede og det er godt med tak i fjellet. Det mest utfordrende her er nok synet av Slingsbybreen noen hundre meter under oss. Det er flere ruter opp og vi valgte den såkalte Heftys renne. Med vi mener jeg Jakob (DNT) , Einar og meg. Magnus (DNT), Peer og Pål valgte ruten til høyre ved siden av Heftys renne. For å komme inn på denne må man utpå fjellet i starten. Og det skal litt guts til når det er 400-500 m fritt fall rett under. Det er også en rute til venstre for Heftys renne. Jakob ville at vi skulle ta den pga køen i renna. Og da må en også utpå fjellet, samtidig som det var vått og glatt fjell i starten. Det synes verken Einar eller jeg var en god ide, så da ble det renna.
 
 {{< figure src="/images/Storen/nr14.jpg" caption="Foto : Pål Eivind Skaare - taulaget er festet i standplass og neste etappe skal starte." position="center" style="border-radius: 8px;" >}}
 
