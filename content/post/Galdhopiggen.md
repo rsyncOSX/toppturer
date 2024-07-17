@@ -1,6 +1,6 @@
 ---
 title: "Galdhøpiggen, Glittertind og Besseggen"
-date: 2014-07-01
+date: 2014-07-23
 tags : ["Galdhøpiggen","Glittertind","Besseggen"]
 categories : ["Jotunheimen"]
 ---
