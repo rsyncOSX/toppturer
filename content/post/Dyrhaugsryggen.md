@@ -1,6 +1,6 @@
 ---
 title: "Dyrhaugsryggen (via Bandet)"
-date: 2014-08-01
+date: 2014-08-07
 tags : ["Dyrhaugsryggen"]
 categories : ["Jotunheimen"]
 ---
