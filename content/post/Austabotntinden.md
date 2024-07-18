@@ -1,13 +1,11 @@
 ---
 author: "Thomas Evensen"
 title: "Store Austabotntind (2204 moh)"
-date: 2016-07-01
+date: 2016-07-14
 tags : ["Austabotntind"]
 categories : ["Jotunheimen"]
 ---
 Min siste tur på Store Austabotntind (2204 moh) var juli 2016. Store Austabotntind er en flott topp og utsynet fra toppen er av de bedre (forutsatt klarvær). Første gang jeg var på toppen var med et klatrekurs i 2014.  Tur/retur fra bommen ved Tindeveien og til topps med sikring etter Vestre, kan gjøres på ca 7 timer.
-
-[Video](https://youtu.be/j0U6CdhO11k) fra toppen.
 
 {{< figure src="/images/Topper/storen.jpg" caption="Storen og Slingsbybreen i sikte." position="center" style="border-radius: 8px;" >}}
 
